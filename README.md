@@ -1,5 +1,7 @@
 # Identifying At-Threat Locations & Severity from Police Radio
 
+Project by Anna Haas, James Lovejoy, Matt Clifford and William Holder
+
 ### The Problem
 
 During any type of disaster, chaos is present. To help organize this chaos and address the disaster FEMA (Federal Emergency Management Agency) steps in. The mission of FEMA is to "support the citizens and first responders to promote that as a nation we work together to build sustain, and improve our capability to prepare for, protect against, respond to, recover from, and mitigate all hazards." During a time of disaster, specifically during the Camp Fire, the most deadly wildfire in California history, can audio from police radios be used to identify affected locations and understand severity to more effectively allocate emergency resources? To address this problem we will extract vital information from audio files to map at-risk locations and show severity by the frequency of locations mentioned. This audio will come from five different police radios, providing unique, aggregated information.
